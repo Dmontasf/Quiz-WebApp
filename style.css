@@ -1,0 +1,42 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.login-card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    font-weight: 600;
+}
+.quiz-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.quiz-container h2 {
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+
+.quiz-container form {
+    margin-bottom: 15px;
+}
+
+.quiz-container .btn {
+    font-size: 1.25rem;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+.logout-btn {
+    margin-top: 20px;
+    font-size: 1rem;
+}

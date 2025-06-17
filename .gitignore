@@ -1,0 +1,3 @@
+# Environment/config files
+.env
+config.php
